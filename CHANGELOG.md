@@ -1,3 +1,10 @@
+## [1.1.3](https://github.com/dBucik/relying-services-catalogue/compare/v1.1.2...v1.1.3) (2022-07-25)
+
+
+### Bug Fixes
+
+* **deps:** update dependency org.springframework.boot:spring-boot-starter-parent to v2.7.2 ([eea9a8a](https://github.com/dBucik/relying-services-catalogue/commit/eea9a8a124adcb31b7ee8c2aa3b663def1c17bfc))
+
 ## [1.1.2](https://github.com/dBucik/relying-services-catalogue/compare/v1.1.1...v1.1.2) (2022-07-12)
 
 

@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/CESNET/relying-services-catalogue/compare/v1.0.1...v1.0.2) (2022-08-08)
+
+
+### Bug Fixes
+
+* **deps:** update dependency org.webjars:bootstrap to v5.2.0 ([15bf733](https://github.com/CESNET/relying-services-catalogue/commit/15bf733246e80276b07d4f0fb9b489bf2040c6b1))
+
 ## [1.0.1](https://github.com/CESNET/relying-services-catalogue/compare/v1.0.0...v1.0.1) (2022-08-03)
 
 

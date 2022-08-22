@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/CESNET/relying-services-catalogue/compare/v1.0.2...v1.0.3) (2022-08-22)
+
+
+### Bug Fixes
+
+* **deps:** update dependency org.webjars:datatables to v1.12.1 ([f88186a](https://github.com/CESNET/relying-services-catalogue/commit/f88186a9531b07e098e2cb88e0bea6cb993eb320))
+
 ## [1.0.2](https://github.com/CESNET/relying-services-catalogue/compare/v1.0.1...v1.0.2) (2022-08-08)
 
 

@@ -22,7 +22,7 @@
         <bootstrap.version>5.2.0</bootstrap.version>
         <jquery.version>3.6.0</jquery.version>
         <fontawesome.version>6.1.2</fontawesome.version>
-        <datatables.version>1.11.4</datatables.version>
+        <datatables.version>1.12.1</datatables.version>
     </properties>
 
     <dependencies>

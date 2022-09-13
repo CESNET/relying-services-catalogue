@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/CESNET/relying-services-catalogue/compare/v1.0.4...v1.0.5) (2022-09-13)
+
+
+### Bug Fixes
+
+* **deps:** update dependency org.webjars:jquery to v3.6.1 ([698e766](https://github.com/CESNET/relying-services-catalogue/commit/698e766faa8d794b455cd2897194a8d844956a0f))
+
 ## [1.0.4](https://github.com/CESNET/relying-services-catalogue/compare/v1.0.3...v1.0.4) (2022-08-22)
 
 
